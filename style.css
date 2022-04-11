@@ -1,0 +1,30 @@
+.gg-container-mail{
+  background-color: chocolate;
+  border-radius: 10px;
+  height: 100px;
+}
+
+.gg-container-dadi{
+  background-color: rgb(213, 145, 96);
+  border-radius: 10px;
+  height: 300px;
+}
+
+.gg-col{
+  height: 100px;
+}
+
+.gg-hide{
+  opacity: 0;
+}
+
+.dado{
+  margin: 0 auto;
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  box-shadow: 10px 10px 0px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  font-size: 25px;
+  font-weight: bold;
+}
